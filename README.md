@@ -17,8 +17,6 @@
 - **ESLint**
 - **Vite Plugin React**
 
-### Clone the repository
+### For Live view
 ``````
-git clone git@github.com:mostafaayman551/LandingPage-Responsive.git
-cd landingpage-app
-
+https://landing-page-responsive-mauve.vercel.app/
